@@ -1,0 +1,70 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Desarrollo', url: ''}
+- {name: 'Diseño', url: 'design'}
+# - {name: 'Blog',     url: 'blog'}
+- {name: 'Sobre mi',    url: 'about'}
+# - {name: 'Sobre mi',  url: 'contact'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Mi Biblioteca',   url: 'proj-1'}
+- {name: 'Disney API',   url: 'proj-2'}
+- {name: 'Discord Clone', url: 'proj-3'}
+# - {name: 'Project Four',  url: 'proj-4'}
+# - {name: 'Project Five',  url: 'proj-5'}
+
+#-------------------------------
+# Projects Section
+
+des_projects:
+- {name: 'La Tomás Cabrera 2020', url: 'dsg-1'}
+- {name: 'Kuntur - Agencia Digital',   url: 'dsg-2'}
+- {name: 'Dementes Gráficas', url: 'dsg-3'}
+- {name: 'Logofolio',  url: 'dsg-4'}
+# - {name: 'Project Five',  url: 'proj-5'}
+
+#-------------------------------
+# Contact Section
+
+social:
+# - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'github',    link: 'https://github.com/Mettralla'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/daniel-alejandro-tejerina/'}
+- {icon: 'envelope',  link: 'mailto:danieltejerina0493@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
