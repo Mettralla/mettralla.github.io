@@ -14,7 +14,7 @@ Tuve el honor de formar parte del equipo responsable de la creación de la ident
 
 Este año, la edición fue especial, enfrentándonos al desafío impuesto por la pandemia, lo que llevó a una transformación del evento a un formato virtual. Nuestro equipo no solo diseñó la identidad visual, sino también las piezas esenciales para la presencia en línea, destacando especialmente en las redes sociales
 
-Puede ver mas sobre el evento en su [instagram](https://www.instagram.com/dementesgraficas/).
+Puede ver mas sobre el evento en su [instagram](https://www.instagram.com/dementesgraficas/), asi como los highlight de la [edición 2020](https://www.instagram.com/stories/highlights/17989677389324529/).
 
 ![rev02](../assets/img/projects/dsg-3/post02.jpg)
 
