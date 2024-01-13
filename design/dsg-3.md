@@ -8,7 +8,7 @@ title: 'Dementes Graficas 2020'
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-3776AB.svg?logo=adobephotoshop&logoColor=white">
 </p>
 
-{% include image.html url="#" image="projects/dsg-3/post01.jpg" %}
+![rev01](../assets/img/projects/dsg-3/post01.jpg)
 
 Tuve el honor de formar parte del equipo responsable de la creación de la identidad visual para la edición 2020 del evento "Dementes Gráficas", organizado por estudiantes del último año de la carrera de Diseño Gráfico de la Escuela Provincial de Bellas Artes “Tomas Cabrera”. Nuestra labor no solo implicó diseñar un conjunto de elementos visuales, sino también contribuir a la esencia y la experiencia global del evento.
 

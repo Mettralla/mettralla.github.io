@@ -1,2 +1,2 @@
-# Portfolio Jekyll Theme
+# Portfolio
 
