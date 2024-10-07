@@ -13,6 +13,7 @@ menu:
 
 projects:
 - {name: 'Mi Biblioteca',   url: 'proj-1'}
+- {name: 'Harmony Hub', url: 'proj-4'}
 - {name: 'Disney API',   url: 'proj-2'}
 - {name: 'Discord Clone', url: 'proj-3'}
 # - {name: 'Project Four',  url: 'proj-4'}
@@ -25,6 +26,7 @@ des_projects:
 - {name: 'La Tomás Cabrera 2020', url: 'dsg-1'}
 - {name: 'Kuntur - Agencia Digital',   url: 'dsg-2'}
 - {name: 'Dementes Gráficas', url: 'dsg-3'}
+- {name: 'Mola Hamburguesas Copywriting',  url: 'dsg-5'}
 - {name: 'Logofolio',  url: 'dsg-4'}
 # - {name: 'Project Five',  url: 'proj-5'}
 

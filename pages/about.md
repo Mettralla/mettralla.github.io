@@ -6,9 +6,28 @@ permalink: /about
 
 Diseñador gráfico y estudiante de desarrollo de software con una pasión por crear experiencias inmersivas. Combinando mis habilidades de diseño con mi reciente conocimiento en programación, estoy en una travesía para crear videojuegos cautivadores y experiencias interactivas. Emocionado por explorar la intersección entre el arte y la tecnología, y empujar los límites de la creatividad digital.
 
-Actualmente en búsqueda de mi primera oportunidad laboral para seguir aprendiendo y perfeccionando mis habilidades en el siempre cambiante mundo del desarrollo de software.
+Actualmente, trabajo como desarrollador de software en la Secretaría de Modernización de la Municipalidad de Salta, donde estoy desarrollando herramientas de relevamiento basadas en la recolección de datos geográficos. Esta experiencia me ha permitido expandir mis habilidades en el desarrollo de software y seguir perfeccionando mis capacidades técnicas en proyectos orientados a la modernización y eficiencia del estado.
 
 Puedes contactarme a traves de mi [email](mailto:danieltejerina0493@gmail.com).
+
+**Experiencia**
+
+**Desarrollador de Software – Secretaría de Modernización, Municipalidad de Salta**
+**Mayo 2024 – Presente**
+
+Actualmente, me desempeño como desarrollador de software en la **Secretaría de Modernización de la Municipalidad de Salta**, donde estoy desarrollando herramientas de relevamiento basadas en la recolección de datos geográficos. Mis responsabilidades incluyen:
+
+- Diseño e implementación de sistemas de relevamiento de datos geográficos.
+- Creación de herramientas de visualización para facilitar la toma de decisiones municipales.
+- Desarrollo y mantenimiento de aplicaciones web que permiten el seguimiento y la gestión de recursos municipales.
+
+**Diseño Gráfico – Freelancer**
+**2019 – 2023**
+
+Durante varios años, trabajé como **freelance** en proyectos de diseño gráfico, enfocándome en:
+
+- Diseño de marcas y materiales promocionales.
+- Creación de contenido gráfico para redes sociales y campañas publicitarias.
 
 **Espacio de Trabajo**
 
