@@ -19,7 +19,7 @@ Harmony Hub es una aplicación de música desarrollada como parte de un trabajo 
 
 El proyecto fue construido utilizando React para el frontend, acompañado por Bulma para el diseño de la interfaz. Vite se utilizó como herramienta de configuración para garantizar un entorno de desarrollo rápido y eficiente. Para la gestión de rutas y navegación dentro de la aplicación, implementé React Router, lo que permitió una navegación fluida entre las diferentes secciones de la app.
 
-Para la parte de datos, consumí la API de la universidad (HarmonyHub) que me permitió obtener información sobre álbumes, canciones y artistas, y mostrarla de forma dinámica en la aplicación. Aunque esta API era privada y ya no está disponible, puedes ver el código y la implementación del proyecto en su [repositorio de GitHub](https://github.com/Mettralla/HarmonyHub).
+Para la parte de datos, consumí la API de la universidad (HarmonyHub) que me permitió obtener información sobre álbumes, canciones y artistas, y mostrarla de forma dinámica en la aplicación. Puedes ver el código y la implementación del proyecto en su [repositorio de GitHub](https://github.com/Mettralla/HarmonyHub), o explorar el despliegue de la aplicación en el siguiente enlace: [HarmonyHub Deploy](https://sunny-seahorse-062cca.netlify.app/).
 
 Entre las funcionalidades destacadas se incluyen:
 
